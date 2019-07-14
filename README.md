@@ -2,7 +2,7 @@
 
 ### Commands to run
 
-$ javac src/*.java -d bin
+$ javac src/*.java
 
 $ cd bin
 
