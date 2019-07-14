@@ -3,7 +3,9 @@
 ### Commands to run
 
 $ javac src/*.java -d bin
+
 $ cd bin
+
 $ java Tetris
 
 ### Note
